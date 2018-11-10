@@ -117,3 +117,11 @@ div.titlebox span.number:after {
     margin-top: 202px;
 }
 /* End Addon */
+a[href$="#pro-css-logo"]{
+    position: relative;
+    display: inline-block;
+    width:290px;
+    height:101px;
+    background: url(%%pro-css-logo%%) 50% 0 no-repeat;
+    background-size:contain;
+}
