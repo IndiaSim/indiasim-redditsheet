@@ -125,3 +125,23 @@ a[href$="#pro-css-logo"]{
     background: url(%%pro-css-logo%%) 50% 0 no-repeat;
     background-size:contain;
 }
+/*Custom Colors*/
+.usertext .md a[href$="#green"] {color:#6ab023;cursor:default}
+.usertext .md a[href$="#red"] {color:#FF0000;cursor:default;text-decoration: line-through;}
+.usertext .md a[href$="#blue"] {color:#483D8B;cursor:default}
+.usertext .md a[href$="#orange"] {color:#FF8C00;cursor:default}
+.usertext .md a[href$="#purple"] {color:#9932CC;cursor:default}
+.usertext .md a[href$="#yellow"] {color:#e6e600;cursor:default}
+.usertext .md a[href$="#pink"] {color:#FF69B4;cursor:default}
+.usertext .md a[href$="#lime"] {color:#000080;cursor:default}
+.usertext .md a[href$="#brown"] {color:#8B4513;cursor:default}
+.usertext .md a[href$="#grey"] {color:grey;cursor:default}
+#header .pagename a {
+    content: 'IndiaSim: Indian Poltiical Simulation';
+    font-size: 42px;
+    line-height: 1;
+}
+.titlebox .md-inline .h4 a[href="blurple"]{
+    background-color:"7289DA";
+    color: #FFFFFF;
+}
