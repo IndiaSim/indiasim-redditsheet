@@ -145,3 +145,6 @@ a[href$="#pro-css-logo"]{
     background-color:"7289DA";
     color: #FFFFFF;
 }
+body{
+    font-family: 'Calibri',sans-serif;
+}
