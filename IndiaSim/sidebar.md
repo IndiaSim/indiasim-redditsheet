@@ -6,5 +6,3 @@
 ---
 [](#pro-css-logo)
 ---
-
-IndiaSim proudly supports fully simmed elections. For more, please contact /u/Youmaton for info.
